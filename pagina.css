@@ -1,0 +1,434 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+	}
+
+html {background: url(../images/Medellin_Foto.png);
+
+}
+body {	background: #fff;
+		width: 960px;
+		height:1000px;
+		}
+
+header{ 
+	width: 100%;
+	height: 145px;
+    float: left;
+}
+
+img {padding-left: 100px;
+
+	float: left;
+ }
+
+ h1 {padding-top: 10px;
+ 	margin-left: 80px;
+	font-family: arial;
+	font-size: 1em;
+	color: #000;
+ }
+#ciu {padding-top: 10px;
+ 	margin-left: 80px;
+	font-family: arial;
+	font-size: 1em;
+	color: #000;
+ }
+
+#texto1{ margin-top: 50px;
+	font-family: arial;
+	color: #000;
+	font-size: 1em;
+margin-left: 30px;
+
+	}
+#nombre {padding-left: 125px;
+ 	padding-top: 40px;
+	font-family: arial;
+	font-size: 3em;
+	float: left;
+	color: #000;
+}
+
+nav {width:100%;
+	height: 40px;
+	float: left;
+
+
+
+}
+	  
+ul {list-style-type: none;}
+
+li {float: left;
+}	
+
+a{  background: #938f8f;
+	width: 156px;
+	height: 25px;
+	display: block;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 15px;
+	border: 2px #000 solid;
+	color: #000;
+	text-align: center;
+	padding-top: 10px;
+
+}
+a:hover{
+	background: rgba(122,26,26,0.8);
+	
+}
+
+#museo{
+	width: 690px;
+	height: 289px;
+	background: url(../images/museo.png);
+    margin-top: 30px;
+	float: left;
+}
+
+
+h2 
+    {font-family: 'Abel', sans-serif;
+	color: #fff;
+	font-size: 2em;
+	padding-left: 40px;
+	padding-top: 230px;
+}
+
+#texto1{ margin-top: 50px;
+	font-family: arial;
+	color: #000;
+	font-size: 1em;
+margin-left: 30px;
+}
+
+iframe { margin-top: 30px;
+margin-left: 30px; }
+
+
+#publicidadaside { 
+	width: 240px;
+	height: 340px;
+float: right;
+margin-right: 15px;
+
+ }
+
+ #publicidadaside { width: 240px;
+	height: 340px;
+float: right;
+background: none;
+border: none; }
+
+#publicidad { 
+	width: 240px;
+	height: 340px;
+	float: right;}
+
+
+#ciudad2 {background: url(../images/ciudaddelrio.png) #fff;
+
+	width: 690px;
+	height: 289px;
+	margin-top: 30px;
+	float: left}
+
+
+
+#ciudadh1 {font-family: 'Abel', sans-serif;
+	color: #fff;
+	font-size: 2em;
+	padding-left: 40px;
+	padding-top: 230px;
+}
+
+
+#texto2 { margin-top: 50px;
+	font-family: arial;
+	color: #000;
+	font-size: 1em;
+margin-left: 30px; }
+
+
+}
+p{ font-family: 'Abel', sans-serif; 
+	color: #000;
+	font-size: 0.9em;
+    margin-left: 250px;
+    padding-top: 50px;
+}
+
+
+#rio {font-family: 'Abel', sans-serif;
+	color: #fff;
+	font-size: 2em;
+	padding-left: 40px;
+	padding-top: 230px;}
+
+
+  #parque { 
+ 	background: url(../images/parquesito.png)#fff;
+	width: 690px;
+	height: 289px;
+	margin-top: 30px;
+	float: left}
+
+#texto4 {margin-top: 50px;
+	font-family: arial;
+	color: #000;
+	font-size: 1em;
+margin-left: 30px; }
+
+#paisa {background: url(../images/pueblito_paisa.png) #fff;
+
+	width: 690px;
+	height: 289px;
+	margin-top: 30px;
+	float: left}
+
+	#pueblo {font-family: 'Abel', sans-serif;
+	color: #fff;
+	font-size: 2em;
+	padding-left: 40px;
+	padding-top: 230px;}
+
+	#texto3{margin-top: 30px;
+	font-family: arial;
+	color: #000;
+	font-size: 1em;
+	margin-left: 30px;
+
+}
+
+#textual 
+{margin-top: 30px;
+	font-family: arial;
+	color: #000;
+	font-size: 1.6em;
+
+}
+
+#gale {font-family: 'Abel', sans-serif;
+	color: #000;
+	font-size: 2em;
+	margin-left: : 40px;
+	margin-top: 40px;
+	}
+
+#galeria { float: left;
+margin-left: 30px;
+
+}
+
+
+footer{
+	width: 100%;
+	height:250px;
+	background:#065728;
+	float: left;
+	margin-top: 30px;
+	}
+#opina {
+	width: 100%;
+	background:#065728;
+	float: left;
+	margin-top: 225px;}
+
+#pueblesito {
+	width: 100%;
+	height:250px;
+	background:#065728;
+	float: left;
+	margin-top: 225px;}
+
+
+#parquesitos {
+	width: 100%;
+	height:250px;
+	background:#065728;
+	float: left;
+	margin-top: 225px;
+	}
+
+
+	#foot {
+	width: 100%;
+	height:250px;
+	background:#065728;
+	float: left;
+	margin-top: 225px;
+	}
+
+
+	#pie {
+	width: 100%;
+	height:250px;
+	background:#065728;
+	float: left;
+	margin-top: 225px;
+	}
+
+
+
+.botones {background: none;
+	width: 160px;
+	height: 25px;
+	display: block;
+	text-decoration: none;
+	border: none;
+	font-family: arial;
+	font-size: 12px;
+	color: #000;
+	text-align: center;
+	padding-top: 10px;}
+
+.menu2{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	width: 80px;
+	height: 30px;
+	position: relative; left: 300px;
+	bottom: 30px;
+
+}
+
+
+#searchform {
+    width: 280px;
+	height:30px;
+    padding: 8px;
+	margin:30px auto;
+    background: #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.4) inset, 0 2px 0 rgba(255,255,255,.5);
+    float: left;
+    margin-left: 30px;
+}
+
+#searchform input {
+    width: 190px;
+	height:20px;
+    padding: 5px;
+    float: left;
+    border: 0;
+    background: #eee;
+    border-radius: 3px 0 0 3px;
+	box-shadow: 0 1px 1px rgba(0,0,0,.4) inset;
+}
+
+#searchform input:focus {
+    outline: 0;
+	height:21px;
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,.8) inset;
+}
+
+#searchform input:-webkit-input-placeholder {
+   color: #999;
+   font-weight: normal;
+   font-style: italic;
+}
+
+#searchform input:-moz-placeholder {
+    color: #999;
+    font-weight: normal;
+    font-style: italic;
+}
+
+#searchform input:-ms-input-placeholder {
+    color: #999;
+    font-weight: normal;
+    font-style: italic;
+}    
+
+#searchform button {
+    position: relative;
+    float: right;
+    border: 0;
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    font-size:15px;
+    color: #fff;
+    background: #438cdb;
+    border-radius: 0 3px 3px 0;
+    text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
+}   
+
+#searchform button:hover{
+    background: #2672e0;
+}	
+
+#searchform button:active,
+#searchform button:focus{
+    background: #2672e0;
+}
+
+#searchform button:before { /* flecha */
+    content: '';
+    position: absolute;
+    border-width: 8px 8px 8px 0;
+    border-style: solid solid solid none;
+    border-color: transparent #438cdb transparent;
+    top: 8px;
+    left: -5px;
+}
+
+#searchform button:hover:before{
+    border-right-color: #2672e0;
+}
+
+#searchform button:focus:before{
+    border-right-color: #2672e0;
+}    
+
+h4 {
+	padding-top: 40px;
+    margin-left:  700px;
+	font-family: arial;
+	font-size: 1em;
+	color: #000;
+}
+#direccion{
+	margin-top: 20px;
+	margin-left: 800px;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 13px;
+	color: #000;
+
+}
+
+.redes { 
+	width: 30px;
+	height: 30px;
+float: right;
+margin-right: 15px;
+background: none;
+border: none; }
+
+ .rutas { width: 30px;
+	height: 30px;
+float: right;
+background: none;
+border: none; }
+
+#face { 
+	width: 30px;
+	height: 30px;
+	float: right;}
+
+ #correo { width: 30px;
+	height: 30px;
+float: right; }
+
+
+#twitter { 
+	width: 30px;
+	height: 30px;
+	float: right;}
+
+
